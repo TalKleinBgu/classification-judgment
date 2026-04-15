@@ -1,0 +1,8 @@
+TYPES : ['drugs', 'weapon']   # drugs, weapon, no_titles
+DOCX_PATH: cases_docx/{type}
+CSV_PATH: cases_csv/{type}
+
+OPENAI_API_KEY : # Place here the API_KEY
+
+RESULTS_PATH: results
+GT_PATH: gt
